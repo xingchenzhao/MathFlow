@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "e6aa1457517fd606af7cfda8c0fcb7de"
+build_time: [1549740502, 48939000]
+inputs:
+  "/Users/zhaoxingchen/Desktop/abc/Mattth/Mattth/MathShot.swift": [1549740501, 0]
+  "/Users/zhaoxingchen/Desktop/abc/Mattth/Mattth/ContentViewController.swift": [1549731851, 0]
+  "/Users/zhaoxingchen/Desktop/abc/Mattth/Mattth/AppDelegate.swift": [1549740501, 0]
+  "/Users/zhaoxingchen/Desktop/abc/Mattth/Mattth/process.swift": [1549735777, 0]

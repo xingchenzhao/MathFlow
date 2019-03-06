@@ -1,0 +1,340 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		98CBFB03220EE20300A0AAA5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98CBFB02220EE20300A0AAA5 /* AppDelegate.swift */; };
+		98CBFB07220EE20400A0AAA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98CBFB06220EE20400A0AAA5 /* Assets.xcassets */; };
+		98CBFB0A220EE20400A0AAA5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98CBFB08220EE20400A0AAA5 /* Main.storyboard */; };
+		98CBFB13220EE25400A0AAA5 /* MathShot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98CBFB12220EE25400A0AAA5 /* MathShot.swift */; };
+		98CBFB2C220F4E1500A0AAA5 /* process.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98CBFB2B220F4E1500A0AAA5 /* process.swift */; };
+		98CBFB30220F6F4700A0AAA5 /* TextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98CBFB2F220F6F4700A0AAA5 /* TextViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		98CBFAFF220EE20300A0AAA5 /* MathFlow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MathFlow.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		98CBFB02220EE20300A0AAA5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		98CBFB06220EE20400A0AAA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		98CBFB09220EE20400A0AAA5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		98CBFB0B220EE20400A0AAA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		98CBFB0C220EE20400A0AAA5 /* Mattth.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Mattth.entitlements; sourceTree = "<group>"; };
+		98CBFB12220EE25400A0AAA5 /* MathShot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MathShot.swift; sourceTree = "<group>"; };
+		98CBFB2B220F4E1500A0AAA5 /* process.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = process.swift; sourceTree = "<group>"; };
+		98CBFB2F220F6F4700A0AAA5 /* TextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		98CBFAFC220EE20300A0AAA5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		98CBFAF6220EE20300A0AAA5 = {
+			isa = PBXGroup;
+			children = (
+				98CBFB01220EE20300A0AAA5 /* Mattth */,
+				98CBFB00220EE20300A0AAA5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		98CBFB00220EE20300A0AAA5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				98CBFAFF220EE20300A0AAA5 /* MathFlow.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		98CBFB01220EE20300A0AAA5 /* Mattth */ = {
+			isa = PBXGroup;
+			children = (
+				98CBFB2F220F6F4700A0AAA5 /* TextViewController.swift */,
+				98CBFB02220EE20300A0AAA5 /* AppDelegate.swift */,
+				98CBFB12220EE25400A0AAA5 /* MathShot.swift */,
+				98CBFB06220EE20400A0AAA5 /* Assets.xcassets */,
+				98CBFB08220EE20400A0AAA5 /* Main.storyboard */,
+				98CBFB0B220EE20400A0AAA5 /* Info.plist */,
+				98CBFB0C220EE20400A0AAA5 /* Mattth.entitlements */,
+				98CBFB2B220F4E1500A0AAA5 /* process.swift */,
+			);
+			path = Mattth;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		98CBFAFE220EE20300A0AAA5 /* MathFlow */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 98CBFB0F220EE20400A0AAA5 /* Build configuration list for PBXNativeTarget "MathFlow" */;
+			buildPhases = (
+				98CBFAFB220EE20300A0AAA5 /* Sources */,
+				98CBFAFC220EE20300A0AAA5 /* Frameworks */,
+				98CBFAFD220EE20300A0AAA5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MathFlow;
+			productName = Mattth;
+			productReference = 98CBFAFF220EE20300A0AAA5 /* MathFlow.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		98CBFAF7220EE20300A0AAA5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = "Xingchen Zhao";
+				TargetAttributes = {
+					98CBFAFE220EE20300A0AAA5 = {
+						CreatedOnToolsVersion = 10.1;
+					};
+				};
+			};
+			buildConfigurationList = 98CBFAFA220EE20300A0AAA5 /* Build configuration list for PBXProject "MathFlow" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 98CBFAF6220EE20300A0AAA5;
+			productRefGroup = 98CBFB00220EE20300A0AAA5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				98CBFAFE220EE20300A0AAA5 /* MathFlow */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		98CBFAFD220EE20300A0AAA5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				98CBFB07220EE20400A0AAA5 /* Assets.xcassets in Resources */,
+				98CBFB0A220EE20400A0AAA5 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		98CBFAFB220EE20300A0AAA5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				98CBFB30220F6F4700A0AAA5 /* TextViewController.swift in Sources */,
+				98CBFB13220EE25400A0AAA5 /* MathShot.swift in Sources */,
+				98CBFB03220EE20300A0AAA5 /* AppDelegate.swift in Sources */,
+				98CBFB2C220F4E1500A0AAA5 /* process.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		98CBFB08220EE20400A0AAA5 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				98CBFB09220EE20400A0AAA5 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		98CBFB0D220EE20400A0AAA5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		98CBFB0E220EE20400A0AAA5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		98CBFB10220EE20400A0AAA5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Mattth/Mattth.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = Y9R45C88C9;
+				INFOPLIST_FILE = Mattth/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = XingchenZhao.Mattth;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+			};
+			name = Debug;
+		};
+		98CBFB11220EE20400A0AAA5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Mattth/Mattth.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = Y9R45C88C9;
+				INFOPLIST_FILE = Mattth/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = XingchenZhao.Mattth;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		98CBFAFA220EE20300A0AAA5 /* Build configuration list for PBXProject "MathFlow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				98CBFB0D220EE20400A0AAA5 /* Debug */,
+				98CBFB0E220EE20400A0AAA5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		98CBFB0F220EE20400A0AAA5 /* Build configuration list for PBXNativeTarget "MathFlow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				98CBFB10220EE20400A0AAA5 /* Debug */,
+				98CBFB11220EE20400A0AAA5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 98CBFAF7220EE20300A0AAA5 /* Project object */;
+}

@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>00035EF5-C0D7-4145-8990-41FA598C8BB7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>00035EF5-C0D7-4145-8990-41FA598C8BB7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571424161.76288402</real>
+			<key>timeStoppedRecording</key>
+			<real>571424165.795223</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>00035EF5-C0D7-4145-8990-41FA598C8BB7</string>
+		</dict>
+		<key>07C7F547-1B08-4EC6-9799-6679DDCC8B1C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>07C7F547-1B08-4EC6-9799-6679DDCC8B1C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571423730.606861</real>
+			<key>timeStoppedRecording</key>
+			<real>571423732.99066603</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>07C7F547-1B08-4EC6-9799-6679DDCC8B1C</string>
+		</dict>
+		<key>0DEFDE06-AA40-482D-800C-5028FA8987B7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0DEFDE06-AA40-482D-800C-5028FA8987B7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571429457.72752798</real>
+			<key>timeStoppedRecording</key>
+			<real>571429460.02003503</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>0DEFDE06-AA40-482D-800C-5028FA8987B7</string>
+		</dict>
+		<key>0F796FA4-DD3E-4ED8-B87D-88EDB73A34AC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0F796FA4-DD3E-4ED8-B87D-88EDB73A34AC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571429087.30718398</real>
+			<key>timeStoppedRecording</key>
+			<real>571429089.72332799</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>0F796FA4-DD3E-4ED8-B87D-88EDB73A34AC</string>
+		</dict>
+		<key>22158A7C-DAB8-4D09-BAE7-929D6049E1FF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>22158A7C-DAB8-4D09-BAE7-929D6049E1FF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571429050.691517</real>
+			<key>timeStoppedRecording</key>
+			<real>571429053.27744305</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>22158A7C-DAB8-4D09-BAE7-929D6049E1FF</string>
+		</dict>
+		<key>263E3F87-16B7-4443-BABE-0BE5DEB2FC6D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>263E3F87-16B7-4443-BABE-0BE5DEB2FC6D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571432007.45390606</real>
+			<key>timeStoppedRecording</key>
+			<real>571432009.78309798</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>263E3F87-16B7-4443-BABE-0BE5DEB2FC6D</string>
+		</dict>
+		<key>28217007-C1B0-465F-9ED1-26DD104D3980</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>28217007-C1B0-465F-9ED1-26DD104D3980.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571423906.96597195</real>
+			<key>timeStoppedRecording</key>
+			<real>571423909.40595603</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>28217007-C1B0-465F-9ED1-26DD104D3980</string>
+		</dict>
+		<key>3C015624-840A-4398-96D4-9E5CE684BC07</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3C015624-840A-4398-96D4-9E5CE684BC07.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571429685.325436</real>
+			<key>timeStoppedRecording</key>
+			<real>571429687.64378202</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>3C015624-840A-4398-96D4-9E5CE684BC07</string>
+		</dict>
+		<key>40DB9D0E-7FBA-4F94-BF71-2C49AEC36593</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>40DB9D0E-7FBA-4F94-BF71-2C49AEC36593.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571424547.31232703</real>
+			<key>timeStoppedRecording</key>
+			<real>571424549.77896094</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>40DB9D0E-7FBA-4F94-BF71-2C49AEC36593</string>
+		</dict>
+		<key>410F6B35-C980-44CB-B269-64831B8FCA5C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>410F6B35-C980-44CB-B269-64831B8FCA5C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571431932.67720997</real>
+			<key>timeStoppedRecording</key>
+			<real>571431935.23956501</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>410F6B35-C980-44CB-B269-64831B8FCA5C</string>
+		</dict>
+		<key>43CA5E44-AC69-4420-A045-99D02ED6539D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>43CA5E44-AC69-4420-A045-99D02ED6539D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571425283.25739706</real>
+			<key>timeStoppedRecording</key>
+			<real>571425285.66899502</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>43CA5E44-AC69-4420-A045-99D02ED6539D</string>
+		</dict>
+		<key>4EC38D99-DAF5-4FCF-BB8D-3BC208425AF2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4EC38D99-DAF5-4FCF-BB8D-3BC208425AF2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571424186.44073999</real>
+			<key>timeStoppedRecording</key>
+			<real>571424189.01931906</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>4EC38D99-DAF5-4FCF-BB8D-3BC208425AF2</string>
+		</dict>
+		<key>560FAAAC-1027-4401-83CC-172EF9CC6D6C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>560FAAAC-1027-4401-83CC-172EF9CC6D6C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571429164.52569306</real>
+			<key>timeStoppedRecording</key>
+			<real>571429166.69614506</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>560FAAAC-1027-4401-83CC-172EF9CC6D6C</string>
+		</dict>
+		<key>574D6320-7025-4510-B782-49DA27DA8F25</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>574D6320-7025-4510-B782-49DA27DA8F25.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571424500.41661406</real>
+			<key>timeStoppedRecording</key>
+			<real>571424502.80494297</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>574D6320-7025-4510-B782-49DA27DA8F25</string>
+		</dict>
+		<key>628E0733-FD82-497B-979B-219C60EFA9DA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>628E0733-FD82-497B-979B-219C60EFA9DA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571424225.96637905</real>
+			<key>timeStoppedRecording</key>
+			<real>571424227.68683398</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>628E0733-FD82-497B-979B-219C60EFA9DA</string>
+		</dict>
+		<key>631BAF37-5EF9-4A1F-9BAE-CBCFC6732845</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>631BAF37-5EF9-4A1F-9BAE-CBCFC6732845.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571425146.73915803</real>
+			<key>timeStoppedRecording</key>
+			<real>571425149.45959902</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>631BAF37-5EF9-4A1F-9BAE-CBCFC6732845</string>
+		</dict>
+		<key>71E147B4-F834-4EC4-A668-983ED05874A1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>71E147B4-F834-4EC4-A668-983ED05874A1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571424363.84305096</real>
+			<key>timeStoppedRecording</key>
+			<real>571424366.15866804</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>71E147B4-F834-4EC4-A668-983ED05874A1</string>
+		</dict>
+		<key>75153515-8B17-417E-B779-DAD8B4A3036B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>75153515-8B17-417E-B779-DAD8B4A3036B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571428582.64809</real>
+			<key>timeStoppedRecording</key>
+			<real>571428585.93407905</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>75153515-8B17-417E-B779-DAD8B4A3036B</string>
+		</dict>
+		<key>75781A01-3222-4FD8-951F-B12CA03D0995</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>75781A01-3222-4FD8-951F-B12CA03D0995.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571429476.80375302</real>
+			<key>timeStoppedRecording</key>
+			<real>571429479.16463304</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>75781A01-3222-4FD8-951F-B12CA03D0995</string>
+		</dict>
+		<key>7C0893A2-E1E9-4797-AA7D-1D460F565D94</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7C0893A2-E1E9-4797-AA7D-1D460F565D94.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571429990.59622097</real>
+			<key>timeStoppedRecording</key>
+			<real>571429994.76781499</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>7C0893A2-E1E9-4797-AA7D-1D460F565D94</string>
+		</dict>
+		<key>830A008D-92DC-48D8-B495-5ED4A4155723</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>830A008D-92DC-48D8-B495-5ED4A4155723.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571432632.28184795</real>
+			<key>timeStoppedRecording</key>
+			<real>571432643.37879705</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>830A008D-92DC-48D8-B495-5ED4A4155723</string>
+		</dict>
+		<key>8BED3167-3545-4972-8E7B-BEAA752E58F5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8BED3167-3545-4972-8E7B-BEAA752E58F5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571424420.92185295</real>
+			<key>timeStoppedRecording</key>
+			<real>571424423.27857399</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>8BED3167-3545-4972-8E7B-BEAA752E58F5</string>
+		</dict>
+		<key>9E28E136-2E62-4A96-89B6-36E55153051E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9E28E136-2E62-4A96-89B6-36E55153051E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571432433.71932495</real>
+			<key>timeStoppedRecording</key>
+			<real>571432438.71769595</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>9E28E136-2E62-4A96-89B6-36E55153051E</string>
+		</dict>
+		<key>9E604E08-3DAA-417A-82C1-DFBB331678A8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9E604E08-3DAA-417A-82C1-DFBB331678A8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571425270.35344398</real>
+			<key>timeStoppedRecording</key>
+			<real>571425270.841874</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>9E604E08-3DAA-417A-82C1-DFBB331678A8</string>
+		</dict>
+		<key>A2560BBD-AC8B-4EB9-8C14-053CDE1ADC45</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A2560BBD-AC8B-4EB9-8C14-053CDE1ADC45.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571428577.21017003</real>
+			<key>timeStoppedRecording</key>
+			<real>571428577.63498104</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>A2560BBD-AC8B-4EB9-8C14-053CDE1ADC45</string>
+		</dict>
+		<key>A6845070-189E-44FA-8115-A879C8A08B1C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A6845070-189E-44FA-8115-A879C8A08B1C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571429437.261011</real>
+			<key>timeStoppedRecording</key>
+			<real>571429439.57527196</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>A6845070-189E-44FA-8115-A879C8A08B1C</string>
+		</dict>
+		<key>A7C17F3B-2E81-4ADE-9FF4-7A355E258A29</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A7C17F3B-2E81-4ADE-9FF4-7A355E258A29.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571424335.54739404</real>
+			<key>timeStoppedRecording</key>
+			<real>571424337.93167496</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>A7C17F3B-2E81-4ADE-9FF4-7A355E258A29</string>
+		</dict>
+		<key>A87DEC7E-9BBB-4A2A-A52C-CCE5C69B7AB3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A87DEC7E-9BBB-4A2A-A52C-CCE5C69B7AB3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571419754.11618996</real>
+			<key>timeStoppedRecording</key>
+			<real>571419756.46016097</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>A87DEC7E-9BBB-4A2A-A52C-CCE5C69B7AB3</string>
+		</dict>
+		<key>ADBAF548-ACF8-4E0F-8512-B10711376488</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ADBAF548-ACF8-4E0F-8512-B10711376488.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571428620.06421804</real>
+			<key>timeStoppedRecording</key>
+			<real>571428622.66939902</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>ADBAF548-ACF8-4E0F-8512-B10711376488</string>
+		</dict>
+		<key>AE9A3755-4320-4A20-9713-B29078D679AA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AE9A3755-4320-4A20-9713-B29078D679AA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571423707.06441402</real>
+			<key>timeStoppedRecording</key>
+			<real>571423711.35181797</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>AE9A3755-4320-4A20-9713-B29078D679AA</string>
+		</dict>
+		<key>B2BEE62F-0269-4DA9-8116-70F45056B6A9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B2BEE62F-0269-4DA9-8116-70F45056B6A9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571429976.11073601</real>
+			<key>timeStoppedRecording</key>
+			<real>571429976.90445101</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>B2BEE62F-0269-4DA9-8116-70F45056B6A9</string>
+		</dict>
+		<key>B7A67E74-C270-4F2C-95D5-EE74D88C868B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B7A67E74-C270-4F2C-95D5-EE74D88C868B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571424276.09007394</real>
+			<key>timeStoppedRecording</key>
+			<real>571424278.47264898</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>B7A67E74-C270-4F2C-95D5-EE74D88C868B</string>
+		</dict>
+		<key>BA6EF8CD-DA82-4D2E-B7D5-3F5943DF64EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BA6EF8CD-DA82-4D2E-B7D5-3F5943DF64EF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571429639.54380095</real>
+			<key>timeStoppedRecording</key>
+			<real>571429641.91164696</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>BA6EF8CD-DA82-4D2E-B7D5-3F5943DF64EF</string>
+		</dict>
+		<key>D8C7D1F1-DF42-409F-A0AE-9725FC591C63</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D8C7D1F1-DF42-409F-A0AE-9725FC591C63.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571429302.12168097</real>
+			<key>timeStoppedRecording</key>
+			<real>571429310.24453902</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>D8C7D1F1-DF42-409F-A0AE-9725FC591C63</string>
+		</dict>
+		<key>D912BDD0-EB1C-4754-8111-49E88C1410DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D912BDD0-EB1C-4754-8111-49E88C1410DE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571429653.62954199</real>
+			<key>timeStoppedRecording</key>
+			<real>571429656.18601203</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>D912BDD0-EB1C-4754-8111-49E88C1410DE</string>
+		</dict>
+		<key>E888AFB1-F0A2-43CD-A886-77E2E43ED6BD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E888AFB1-F0A2-43CD-A886-77E2E43ED6BD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571424143.24996603</real>
+			<key>timeStoppedRecording</key>
+			<real>571424147.00747895</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>E888AFB1-F0A2-43CD-A886-77E2E43ED6BD</string>
+		</dict>
+		<key>FF64B92E-7ED2-42AE-A579-2C86583FEB05</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FF64B92E-7ED2-42AE-A579-2C86583FEB05.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mattth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mattth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mattth</string>
+			<key>timeStartedRecording</key>
+			<real>571421468.15388</real>
+			<key>timeStoppedRecording</key>
+			<real>571421468.26830101</real>
+			<key>title</key>
+			<string>Build Mattth</string>
+			<key>uniqueIdentifier</key>
+			<string>FF64B92E-7ED2-42AE-A579-2C86583FEB05</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
